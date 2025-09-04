@@ -1,0 +1,20 @@
+input{
+    width: 100%;
+}
+
+
+.butt-button{
+    min-width: 80px;
+}
+
+.ro-row{
+    margin : 10px 50px;
+}
+
+.deletebutton{
+    margin-top: 9px;
+}
+
+.addbutton{
+    margin-left: 40px  ;
+}
